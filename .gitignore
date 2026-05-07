@@ -1,0 +1,13 @@
+# Binary files
+portpulse
+portpulse.exe
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
